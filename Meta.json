@@ -1,0 +1,24 @@
+{
+    "release": {
+        "key": "",
+        "track": "release",
+        "assemblyVersion": "9.1.0.10",
+        "runtimeVersion": "8.0.0",
+        "runtimeRequired": true,
+        "supportedGameVer": "2024.08.21.0000.0000",
+        "isApplicableForCurrentGameVer": true,
+        "changelog": {
+            "date": "2024-10-17T4:00:00",
+            "version": "9.1.0.10",
+            "changes": [
+                {
+                    "message": "Change for Korea Server",
+                    "author": "Judas",
+                    "sha": "",
+                    "date": "2024-10-17T4:00:00"
+                }
+            ]
+        },
+        "downloadUrl": ""
+    }
+}
